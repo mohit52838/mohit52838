@@ -95,13 +95,10 @@ Real-time maps, user reporting, emergency contacts, and a functional frontend.
 
 ---
 
-# 🌊 Fancy Footer  
+# 📬 Connect With Me  
+📧 **Email:** mohitpatil52838@gmail.com  
+🐙 **GitHub:** https://github.com/mohit52838  
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
 </p>
 
----
-
-# 📬 Connect With Me  
-📧 **Email:** mohitpatil52838@gmail.com  
-🐙 **GitHub:** https://github.com/mohit52838  
