@@ -98,7 +98,7 @@ Real-time maps, user reporting, emergency contacts, and a functional frontend.
 # 📬 Connect With Me  
 📧 **Email:** mohitpatil52838@gmail.com  
 🐙 **GitHub:** https://github.com/mohit52838  
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+<p>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=footer"/>
 </p>
 
