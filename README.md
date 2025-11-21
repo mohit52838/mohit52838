@@ -43,64 +43,98 @@ I create apps ranging from **disaster management systems**, **mandala art tools*
 
 ---
 
-# 📂 Featured Projects
+# 📂 Featured Projects (Glassmorphism Edition)
 
-<!-- HerHealth -->
+<style>
+.card {
+  backdrop-filter: blur(12px);
+  background: rgba(255, 255, 255, 0.08);
+  border: 1px solid rgba(255, 255, 255, 0.18);
+  padding: 18px 22px;
+  border-radius: 16px;
+  margin: 14px 0;
+}
+</style>
+
+<div class="card">
+
 ### 💗 **HerHealth**  
-A complete menstrual & reproductive health platform with detailed chapters, guides, awareness content & clean UI.  
-[![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/mohit52838/HerHealth)
-![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Language](https://img.shields.io/badge/Tech-React%20%7C%20Tailwind-purple?style=for-the-badge)
+A complete menstrual & reproductive health platform with detailed chapters, guides & awareness content.  
+**Repo:** https://github.com/mohit52838/HerHealth  
+<br>
+<img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge">  
+<img src="https://img.shields.io/badge/Tech-React%20%7C%20Tailwind-purple?style=for-the-badge">
+
+</div>
 
 ---
 
-<!-- Smart Connect -->
+<div class="card">
+
 ### ⚡ **smart-connect**  
-A digital empowerment platform with modern UI/UX, React, and Supabase backend.  
-[![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/mohit52838/smart-connect)
-![Status](https://img.shields.io/badge/Status-In_Progress-orange?style=for-the-badge)
-![Language](https://img.shields.io/badge/Tech-React%20%7C%20Tailwind-blue?style=for-the-badge)
+Modern digital empowerment platform with UI/UX, React & Supabase backend.  
+**Repo:** https://github.com/mohit52838/smart-connect  
+<br>
+<img src="https://img.shields.io/badge/Status-In_Progress-orange?style=for-the-badge">
+<img src="https://img.shields.io/badge/Tech-React%20%7C%20Tailwind-blue?style=for-the-badge">
+
+</div>
 
 ---
 
-<!-- Talent Trail Maps -->
+<div class="card">
+
 ### 🗺️ **talent-trail-maps**  
-Interactive map platform for job guidance, districts, and career insights using India's map data.  
-[![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/mohit52838/talent-trail-maps)
-![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Language](https://img.shields.io/badge/Tech-JavaScript%20%7C%20Map_API-green?style=for-the-badge)
+Interactive India map platform for job guidance and career insights.  
+**Repo:** https://github.com/mohit52838/talent-trail-maps  
+<br>
+<img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge">
+<img src="https://img.shields.io/badge/Tech-JS%20%7C%20Map_API-green?style=for-the-badge">
+
+</div>
 
 ---
 
-<!-- YTdownloader -->
+<div class="card">
+
 ### 🎬 **YTdownloader**  
-A clean Python GUI tool for downloading YouTube videos in multiple formats.  
-[![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/mohit52838/YTdownloader)
-![Status](https://img.shields.io/badge/Status-Stable-brightgreen?style=for-the-badge)
-![Language](https://img.shields.io/badge/Tech-Python%20%7C%20Tkinter-yellow?style=for-the-badge)
+Python GUI tool for downloading YouTube videos in multiple formats.  
+**Repo:** https://github.com/mohit52838/YTdownloader  
+<br>
+<img src="https://img.shields.io/badge/Status-Stable-brightgreen?style=for-the-badge">
+<img src="https://img.shields.io/badge/Tech-Python%20%7C%20Tkinter-yellow?style=for-the-badge">
+
+</div>
 
 ---
 
-<!-- Mandala -->
+<div class="card">
+
 ### 🎨 **mandala**  
-A full-feature mandala drawing web app with symmetry, gradients, and download support.  
-[![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/mohit52838/Mandala)
-![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Language](https://img.shields.io/badge/Tech-React%20%7C%20p5.js-pink?style=for-the-badge)
+Mandala drawing web app with symmetry, gradients, UI & download support.  
+**Repo:** https://github.com/mohit52838/Mandala  
+<br>
+<img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge">
+<img src="https://img.shields.io/badge/Tech-React%20%7C%20p5.js-pink?style=for-the-badge">
+
+</div>
 
 ---
 
-<!-- Photo Gallery -->
+<div class="card">
+
 ### 🖼️ **photoGallery**  
-A minimal, aesthetic image gallery website with smooth UI and responsive layout.  
-[![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/mohit52838/photoGallery)
-![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Language](https://img.shields.io/badge/Tech-HTML%20%7C%20CSS-orange?style=for-the-badge)
+Minimal aesthetic image gallery website with smooth UI.  
+**Repo:** https://github.com/mohit52838/photoGallery  
+<br>
+<img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge">
+<img src="https://img.shields.io/badge/Tech-HTML%20%7C%20CSS-orange?style=for-the-badge">
+
+</div>
 
 ---
 
 👉 Explore all repositories: **https://github.com/mohit52838?tab=repositories**
-
 
 ---
 
