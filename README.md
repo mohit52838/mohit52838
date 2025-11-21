@@ -45,8 +45,8 @@ I create apps ranging from **disaster management systems**, **mandala art tools*
 
 # 📂 Featured Projects (Updated)
 
-### 🎬 **YTdownloader**  
-A clean Python GUI tool to download YouTube videos in multiple formats.
+### 💗 **HerHealth**  
+A complete menstrual & reproductive health platform with chapters, guides, and awareness content.
 
 ### ⚡ **smart-connect**  
 A digital empowerment platform with modern UI/UX, React, and Supabase backend.
@@ -54,14 +54,14 @@ A digital empowerment platform with modern UI/UX, React, and Supabase backend.
 ### 🗺️ **talent-trail-maps**  
 Interactive map platform for job guidance and career insights.
 
+### 🎬 **YTdownloader**  
+A clean Python GUI tool to download YouTube videos in multiple formats.
+
 ### 🎨 **mandala**  
 A full-feature Mandala drawing web app with symmetry, gradients, and downloads.
 
 ### 🖼️ **photoGallery**  
 A minimal, aesthetic image gallery website with smooth UI.
-
-### 🚨 **Disaster Management Website**  
-Real-time maps, user reporting, emergency contacts, and a functional frontend.
 
 👉 Explore all repositories: **https://github.com/mohit52838?tab=repositories**
 
