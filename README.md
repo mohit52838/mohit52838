@@ -43,27 +43,64 @@ I create apps ranging from **disaster management systems**, **mandala art tools*
 
 ---
 
-# 📂 Featured Projects (Updated)
+# 📂 Featured Projects
 
+<!-- HerHealth -->
 ### 💗 **HerHealth**  
-A complete menstrual & reproductive health platform with chapters, guides, and awareness content.
+A complete menstrual & reproductive health platform with detailed chapters, guides, awareness content & clean UI.  
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/mohit52838/HerHealth)
+![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
+![Language](https://img.shields.io/badge/Tech-React%20%7C%20Tailwind-purple?style=for-the-badge)
 
+---
+
+<!-- Smart Connect -->
 ### ⚡ **smart-connect**  
-A digital empowerment platform with modern UI/UX, React, and Supabase backend.
+A digital empowerment platform with modern UI/UX, React, and Supabase backend.  
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/mohit52838/smart-connect)
+![Status](https://img.shields.io/badge/Status-In_Progress-orange?style=for-the-badge)
+![Language](https://img.shields.io/badge/Tech-React%20%7C%20Tailwind-blue?style=for-the-badge)
 
+---
+
+<!-- Talent Trail Maps -->
 ### 🗺️ **talent-trail-maps**  
-Interactive map platform for job guidance and career insights.
+Interactive map platform for job guidance, districts, and career insights using India's map data.  
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/mohit52838/talent-trail-maps)
+![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
+![Language](https://img.shields.io/badge/Tech-JavaScript%20%7C%20Map_API-green?style=for-the-badge)
 
+---
+
+<!-- YTdownloader -->
 ### 🎬 **YTdownloader**  
-A clean Python GUI tool to download YouTube videos in multiple formats.
+A clean Python GUI tool for downloading YouTube videos in multiple formats.  
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/mohit52838/YTdownloader)
+![Status](https://img.shields.io/badge/Status-Stable-brightgreen?style=for-the-badge)
+![Language](https://img.shields.io/badge/Tech-Python%20%7C%20Tkinter-yellow?style=for-the-badge)
 
+---
+
+<!-- Mandala -->
 ### 🎨 **mandala**  
-A full-feature Mandala drawing web app with symmetry, gradients, and downloads.
+A full-feature mandala drawing web app with symmetry, gradients, and download support.  
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/mohit52838/Mandala)
+![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
+![Language](https://img.shields.io/badge/Tech-React%20%7C%20p5.js-pink?style=for-the-badge)
 
+---
+
+<!-- Photo Gallery -->
 ### 🖼️ **photoGallery**  
-A minimal, aesthetic image gallery website with smooth UI.
+A minimal, aesthetic image gallery website with smooth UI and responsive layout.  
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/mohit52838/photoGallery)
+![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
+![Language](https://img.shields.io/badge/Tech-HTML%20%7C%20CSS-orange?style=for-the-badge)
+
+---
 
 👉 Explore all repositories: **https://github.com/mohit52838?tab=repositories**
+
 
 ---
 
